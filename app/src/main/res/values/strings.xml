@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mp3Player</string>
+    <string name="mp3list_update">UPDATE</string>
+    <string name="mp3list_about">ABOUT</string>
+</resources>
